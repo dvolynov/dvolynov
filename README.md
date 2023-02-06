@@ -12,4 +12,4 @@ I've been studying data engineering for 2 years now. Also I have a background of
 
 ####Youtube: https://www.youtube.com/watch?v=DIQjkNKRTak  
   
-![pytanks2](https://user-images.githubusercontent.com/83712099/176535831-dbf946fd-249e-4d1b-a1f1-b33648814867.png)
+![image](https://user-images.githubusercontent.com/83712099/217016225-2dd489aa-36e0-4e31-b153-17725bd205b4.png)
