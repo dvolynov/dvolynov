@@ -6,5 +6,5 @@ I've been studying data engineering for 2 years now. Also I have a background of
 #### Main libraries
 
 `ML` - constantly updated library to make life easier for ml programmers   
-`Linux` - 
-`Algorithms` - 
+`Linux` - a set of basic Linux commands necessary for comfortable work   
+`Algorithms` - implementation of basic algorithms such as search, sorting and comparison    
