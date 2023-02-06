@@ -10,7 +10,7 @@ I've been studying data engineering for 2 years now. Also I have a background of
 `Algorithms` - implementation of basic algorithms such as search, sorting and comparison    
 
 
-#### Youtube 
+#### Youtube🤪
 https://www.youtube.com/watch?v=DIQjkNKRTak 
 
 ![image](https://user-images.githubusercontent.com/83712099/217016427-a91613ac-14e2-4649-aca5-2174973df8e3.png)
