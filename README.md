@@ -1,6 +1,6 @@
 ### Hey🤟
 
-2 years in data engineering | Have a background of web and game development | I like to rewrite standard libraries, expanding their functionality | Fluent in python =)   
+Python wizard 🧙‍♂️| Admirer of clean and efficient code | Data enthusiast | Alwaysochistically in love with Machine Learning  
 
 
 #### Main libraries
