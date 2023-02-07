@@ -1,6 +1,6 @@
 ### Hey🤟
 
-I've been studying data engineering for 2 years now. Also I have a background of web, database and game development. I like to rewrite standard libraries, expanding their functionality. Fluent in python =)   
+2 years in data engineering | Have a background of web and game development | I like to rewrite standard libraries, expanding their functionality | Fluent in python =)   
 
 
 #### Main libraries
