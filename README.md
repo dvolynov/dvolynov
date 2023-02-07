@@ -1,6 +1,6 @@
 ### Hey🤟
 
-Python wizard 🧙‍♂️| Admirer of clean and efficient code | Data enthusiast | Alwaysochistically in love with Machine Learning  
+Python wizard 🧙‍♂️| Admirer of clean and efficient code | Head over heels in love with Machine Learning  
 
 
 #### Main libraries
