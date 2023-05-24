@@ -1,8 +1,5 @@
 ## Hey🤟
 
-Python wizard 🧙‍♂️| Admirer of clean and efficient code | Head over heels in love with Machine Learning  
-
-
 ### Best projects
 
 `Music Style Transfer` - apply image style transfer concepts to music by leveraging deep learning and custom neural networks, generating unique compositions by blending the style of one piece with the content of another, using specialized audio spectrogram feature extraction.
