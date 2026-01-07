@@ -14,13 +14,4 @@ My Toolkit:
 ✅ Full-Stack: FastAPI, React, Next.js, TypeScript, Tailwind, Redis  
 ✅ MLOps: Docker, Linux, CI/CD, AWS, Kafka, Kubernetes, MLflow  
   
-🏆 100% Job Success on Upwork; multiple international hackathon wins; graduated with distinction in Computer Science.  
-  
-Key highlights in the last 2 years:  
-➡️ Botable.dev: Led development of an LLM-agent platform  
-➡️ Ernst & Young: Delivered an automation that sped up data validation from ~1 day to <1 minute  
-➡️ Datamomix: Built an AI Copilot for document analysis using compliance methodologies  
-➡️ Mbakop LLC: Built a low-latency multilingual Voice AI onboarding system  
-➡️ Research: Published work on vectorization methods for high-entropy alloys  
-  
 📩 Shoot me a message so we can coordinate!  
